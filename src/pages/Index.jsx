@@ -31,7 +31,7 @@ const Index = () => {
 
       <Box bg="gray.100" py={8}>
         <HStack spacing={8} justify="center">
-          <Link href="/accomplishments">Accomplishments</Link>
+          <Link href="/accomplishments">Major Accomplishments</Link>
           <Link href="/legacy">Legacy</Link>
           <Link href="/gallery">Gallery</Link>
           <Link href="/quotes">Quotes</Link>
